@@ -2,8 +2,12 @@ aaaaaaaa
 bbbbbbbb
 shaby add one line here
 cccccccc
+<<<<<<< HEAD
 dddddddd
 shaby add one line here
 wechat add one line here
 ffffffff
 gggggggg
+=======
+tom dev add one line here
+>>>>>>> 6f607eb983744c6170988f44ad087ff8960308c7
